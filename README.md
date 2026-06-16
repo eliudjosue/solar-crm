@@ -91,8 +91,8 @@ This platform is split into two repositories:
 
 | Repo | Description | Stack |
 |---|---|---|
-| [solar-crm-frontend](https://github.com/eliudjosue/CRM-ERP-for-Solar-Energy-Operations-Front.git) | Angular application — UI, components, state management | Angular 17+, TypeScript, TailwindCSS, RxJS |
-| [solar-crm-backend](https://github.com/eliudjosue/CRM-ERP-for-Solar-Energy-Operations-Backend.git) | NestJS REST API — business logic, database, auth | NestJS, PostgreSQL, TypeORM, JWT |
+| solar-crm-frontend | Angular application — UI, components, state management | Angular 17+, TypeScript, TailwindCSS, RxJS |
+| solar-crm-backend | NestJS REST API — business logic, database, auth | NestJS, PostgreSQL, TypeORM, JWT |
 
 > Access available on request.
 
@@ -116,4 +116,4 @@ Built by **Eliud** — Full-Stack Developer based in Buenos Aires, specializing 
 
 Available for remote freelance projects with European companies.
 
-→ [LinkedIn](https://www.linkedin.com/in/eliudjosue/) &nbsp;·&nbsp;·&nbsp; [Contact](#)
+→ [LinkedIn](https://www.linkedin.com/in/eliudjosue/) &nbsp;·&nbsp;·&nbsp; [Contact](+5491123885307)
